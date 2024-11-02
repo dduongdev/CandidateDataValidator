@@ -1,0 +1,4 @@
+Dòng 2: Sai định dạng ngày tháng năm sinh
+Dòng 2: Thừa dữ liệu
+Dòng 3: Sai định dạng ngày tháng năm sinh
+Dòng 3: Sai định dạng email

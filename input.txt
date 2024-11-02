@@ -1,0 +1,5 @@
+1, Nguyen Van A, 1992/10/10,  112 Nguyen Van Thoai, Nghe An, 0962664394, a@gmail.com , 1.5, Java, Cty Toan Cau Xanh, None, None, None, None, None, None, None
+2, Nguyen Van D, 12/12/1990, 78 Pham Van Dong, Binh Dinh, 0253407270, b@gmail.com, 2, C , Cty Tu ban, None, None, None, None, None, None, None
+1, Nguyen Van Thanh, 19/04/2000, 112 Nguyen Van Thoai, Nghe An, 0378222456, a@gmail, 3, .Net, Cty Toan Cau Xanh, None, None, None, None, None, None, None
+3, Nguyen Dong Duong, 2004/03/13, Dao Tan, Quy Nhon, 0385216798, kyvalaxz2021@gmail.com, None, None, None, None, None, None, Software Engineering, 3, Quy Nhon University, 2027
+2, Tran Van B, 1990/05/01, 78 Pham Van Dong, Quang Tri, 0946777524, ew@yahoo.com, None, None, None, 7/2015, Gioi, DH Bach Khoa DN, None, None, None, None
